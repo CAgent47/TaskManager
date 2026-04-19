@@ -25,6 +25,7 @@ Time: 22:15:00
 
 ```
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 No database. No bullshit. Just a file you can edit or delete anytime.
 
 ## 🐧 For Linux users  
