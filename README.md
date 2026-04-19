@@ -24,7 +24,7 @@ Time: 22:15:00
 ==========================
 
 ```
-
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 No database. No bullshit. Just a file you can edit or delete anytime.
 
 ## 🐧 For Linux users  
@@ -40,6 +40,8 @@ Thanks for your patience and understanding.
 
 ## 🛠️ Run it yourself  
 
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
 ```bash
 git clone https://github.com/GodFather850/task-manager.git
 cd task-manager
@@ -50,6 +52,6 @@ python main.py
 
 MIT — do whatever you want with it. Just don’t blame me if it breaks your Linux. 😄
 
-```
-
 ---
+
+![Tux](https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg)
