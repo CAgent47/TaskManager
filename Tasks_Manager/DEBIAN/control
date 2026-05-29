@@ -1,0 +1,9 @@
+Package: taskmanager
+Version: 1.0.0
+Architecture: all
+Maintainer: Your Name <youremail@example.com>
+Homepage: https://example.com
+Description: Task Manager application
+ This is a task manager application.
+ Multiple lines are allowed here as long as
+ continuation lines start with a space.
