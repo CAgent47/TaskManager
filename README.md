@@ -35,17 +35,6 @@ No database. No bullshit. Just a file you can edit or delete anytime.
 This app is fully compatible with Linux.  
 A `.deb` installer will be available soon.
 
-## 🌍 A note about the internet situation in Iran  
-
-Right now, internet access is unstable and limited.  
-Once it becomes fully reliable, I will upload the `.deb` installer and the standalone `.py` file.  
-Thanks for your patience and understanding.
-
-**Until Iran's internet becomes stable, you can get the ‍‍`.deb` and `.py` files from the link below.**
-
-![Task_Manager](https://biaupload.net/do.php?filename=org-f7a70e389eab1.zip)
-
-Hoping that the internet will return to normal one day.
 ---
 ## 🛠️ Run it yourself  
 
