@@ -1,4 +1,4 @@
-# ✅ Task Manager – by GodFather850
+# ✅ Task Manager – by CAgent_47
 
 # Update Version 1.2 Is Comming.....
 
@@ -41,7 +41,7 @@ A `.deb` installer will be available soon.
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ```bash
-git clone https://github.com/GodFather850/task-manager.git
+git clone https://github.com/CAgent_47/task-manager.git
 cd task-manager
 python main.py
 ```
@@ -52,7 +52,7 @@ MIT — do whatever you want with it. Just don’t blame me if it breaks your Li
 
 ---
 
-# -👤Created By GodFather 
+# -👤Created By CAgent_47
 
 # -📜MTA Scripter • Linux Learner🐧 • Python Learner • SQL • Bash Scripter 🇺🇸🔥
 
