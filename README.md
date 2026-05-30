@@ -1,7 +1,5 @@
 # ✅ Task Manager – by CAgent_47
 
-# Update Version 1.2 Is Comming.....
-
 A simple but powerful task manager built with Python and tkinter.
 It works offline, saves tasks in a .txt file, and keeps your shit organized — because who has time to remember everything?  
 
