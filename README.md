@@ -38,6 +38,8 @@ A `.deb` installer will be available soon.
 
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
+![Download_Me](https://github.com/CAgent47/TaskManager/archive/refs/heads/main.zip)
+
 ```bash
 git clone https://github.com/CAgent_47/task-manager.git
 cd task-manager
