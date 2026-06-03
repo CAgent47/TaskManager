@@ -17,10 +17,10 @@ Tasks are saved in a simple `tasks.txt` file like this:
 ```
 
 Task: Finish MTA gamemode
-Time: 22:10:00
+Time: 2026-06-03 19:43:12.276423
 ==========================
 Task: Push to GitHub
-Time: 22:15:00
+Time: 2026-06-03 19:43:12.276423
 ==========================
 
 ```
