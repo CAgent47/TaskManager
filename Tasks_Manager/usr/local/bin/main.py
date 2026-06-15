@@ -1,11 +1,10 @@
-#!/usr/bin/env python3
 import datetime
-import tkinter as tk
+import tkinter
 from tkinter import messagebox
 import os
 
 def Show_info():
-    data_show = tk.Text(master, width=45, height=15)
+    data_show = tkinter.Text(master, width=45, height=15)
     data_show.grid(row=4, column=1)
     with open("Tsk.txt", "r") as data_db:
         content = data_db.read()
@@ -41,11 +40,11 @@ def showTasks():
 with open("Tsk.txt", "a", encoding="utf-8") as create:
     pass
 
-master = tk.Tk()
+master = tkinter.Tk()
 title = master.title("Task_Manager")
 master.minsize(400, 400)
 master.maxsize(500, 500)
-tk.Label(master, text="Task: ").grid(row=1)
+tkinter.Label(master, text="Task: ").grid(row=1)
 
 Show_info()
 
