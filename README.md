@@ -4,7 +4,10 @@
 A simple but powerful task manager built with Python and tkinter.
 It works offline, saves tasks in a .txt file, and keeps your shit organized — because who has time to remember everything?
 
-# Upgrade System Is Comming Soon....
+# Update(V1.3):
+
+**your tasks saving in json file**
+**Swith from tkinter to CLI**
 
 ## 🔧 What it does  
 
@@ -15,26 +18,11 @@ It works offline, saves tasks in a .txt file, and keeps your shit organized — 
 
 ## 📁 How it saves tasks  
 
-Tasks are saved in a simple `tasks.txt` file like this:
+Tasks are saved in a simple `config.json` file like this:
 
-```
-
-Task: Finish MTA gamemode
-Time: 2026-06-03 19:43:12.276423
-==========================
-Task: Push to GitHub
-Time: 2026-06-03 19:43:12.276423
-==========================
-
-```
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-No database. No bullshit. Just a file you can edit or delete anytime.
-
-## 🐧 For Linux users  
-
-This app is fully compatible with Linux.  
-A `.deb` installer will be available soon.
+Maximum Task = 100
 
 ---
 ## 🛠️ Run it yourself  
@@ -45,7 +33,7 @@ A `.deb` installer will be available soon.
 
 ```bash
 git clone https://github.com/CAgent_47/task-manager.git
-cd task-manager
+cd '[CAgent_47]TaskManager'
 python main.py
 ```
 
