@@ -8,6 +8,8 @@ It works offline, saves tasks in a .txt file, and keeps your shit organized — 
 
 **your tasks saving in json file**
 **Swith from tkinter to CLI**
+**Delete Task Soon...**
+**Show Task In CLI**
 
 ## 🔧 What it does  
 
