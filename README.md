@@ -25,6 +25,27 @@ Tasks are saved in a simple `config.json` file like this:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 Maximum Task = 100
+if tasks equal 100:
+```python
+def deleteAllTask():
+    if os.path.exists(configuration):
+        result = input('Are you sure you want to delete ALL tasks? (y/n): ')
+        if result.lower() == 'y':
+            with open(configuration, 'w') as f:
+                json.dump([], f, indent=4)
+            print("All tasks deleted.")
+            return True
+        else:
+            print("Deletion cancelled.")
+            return False
+    return False
+
+print("ERROR: Maximum tasks reached!")
+if deleteAllTask():
+    task_list = []
+```
+**Note:** 
+*This function is responsible for managing so that the number of tasks does not increase to the point where it slows down the execution of the program.*
 
 ---
 ## 🛠️ Run it yourself  
