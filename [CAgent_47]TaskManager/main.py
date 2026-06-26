@@ -57,7 +57,7 @@ def deleteAllTask():
 
 def main():
     task_list = read_json()
-    MAXIMUM = 3
+    MAXIMUM = 100
 
     new_Task = input('Enter your task: ')
 
