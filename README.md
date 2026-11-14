@@ -59,7 +59,7 @@ MIT — do whatever you want with it. Just don’t blame me if it breaks your Li
 
 ---
 
-# -👤Created By CAgent_47
+# -👤Developer: CAgent_47
 
 # -📜MTA Scripter • Linux Learner🐧 • Python Learner • SQL • Bash Scripter 🇺🇸🔥
 
