@@ -1,4 +1,4 @@
-# ✅ CLI-Task Manager – by CAgent_47 (V1.3)
+# ✅ CLI-Task Manager (V1.3)
 
 
 A simple but powerful task manager built with Python and tkinter.
